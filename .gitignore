@@ -1,0 +1,34 @@
+# OS and editor noise
+.DS_Store
+._*
+.AppleDouble
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# CTF artifacts
+*.pcap
+*.pcapng
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+*.ova
+*.ovpn
+loot/
+secrets/
+hashes.txt
+creds.txt
+
+# Generated scan output
+nmap/
+scans/
+results/

@@ -26,7 +26,7 @@ If you are learning offensive security, web exploitation, Linux privilege escala
 
 | Machine | OS | Difficulty | Category | Date | Writeup |
 | --- | --- | --- | --- | --- | --- |
-| Coming soon | - | - | - | - | - |
+| Old Sessions | Web Exploitation | Easy | 2026-05-31 | [writeup](PicoCTF/OldSessions/writeup.md) |
 
 ### TryHackMe
 

@@ -4,7 +4,7 @@ PicoCTF challenge writeups grouped by category and written as short learning not
 
 | Challenge | Category | Points | Year | Writeup |
 | --- | --- | --- | --- | --- |
-| Coming soon | - | - | - | - |
+| Old Sessions | Web Exploitation | Easy | 2026-05-31 | [writeup](PicoCTF/OldSessions/writeup.md) |
 
 ## Suggested Folder Format
 

@@ -26,7 +26,7 @@ If you are learning offensive security, web exploitation, Linux privilege escala
 
 | Machine | OS | Difficulty | Category | Date | Writeup |
 | --- | --- | --- | --- | --- | --- |
-| Old Sessions | Web Exploitation | Easy | 2026-05-31 | [writeup](PicoCTF/OldSessions/writeup.md) |
+| Coming soon | - | - | - | - |
 
 ### TryHackMe
 
@@ -38,7 +38,7 @@ If you are learning offensive security, web exploitation, Linux privilege escala
 
 | Challenge | Category | Points | Year | Writeup |
 | --- | --- | --- | --- | --- |
-| Coming soon | - | - | - | - |
+| Old Sessions | Web Exploitation | Easy | 2026-05-31 | [writeup](PicoCTF/OldSessions/writeup.md) |
 
 ### Other CTFs
 
